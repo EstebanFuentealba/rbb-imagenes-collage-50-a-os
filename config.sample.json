@@ -1,0 +1,7 @@
+{
+  "CLOUD_NAME": "",
+  "API_KEY": "",
+  "API_SECRET": "",
+  "DIR_IMAGES_INPUT": "./images",
+  "DIR_IMAGES_OUTPUT": "out"
+}
